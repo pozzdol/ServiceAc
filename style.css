@@ -85,7 +85,7 @@ nav a:hover {
 }
 
 .tentang .foto {
-  background-image: url("Assets/4.png");
+  background-image: url("4.png");
   background-size: cover;
   background-position: left;
   width: 300px;
@@ -186,7 +186,7 @@ nav a:hover {
 }
 
 .bungkus2 .img {
-  background-image: url("Assets/6.png");
+  background-image: url("6.png");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -197,19 +197,19 @@ nav a:hover {
 }
 
 .bungkus2 .img2 {
-  background-image: url("Assets/7.png");
+  background-image: url("7.png");
   background-size: cover;
   background-position: center;
 }
 
 .bungkus2 .img3 {
-  background-image: url("Assets/8.png");
+  background-image: url("8.png");
   background-size: cover;
   background-position: center;
 }
 
 .bungkus2 .img4 {
-  background-image: url("Assets/9.png");
+  background-image: url("9.png");
   background-size: cover;
   background-position: center;
 }
